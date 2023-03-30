@@ -1,0 +1,12 @@
+# You can add comments to these files with #
+cf  $HOME/.config
+dt  $HOME/.local/share
+sc  $HOME/.local/bin
+h   $HOME
+wa   $HOME/.archive/
+gg $GOPATH/src/trim
+gr $GOPATH/src/trim/rest
+gp $GOPATH/pkg/mod
+n  $HOME/notes
+mn  /run/media/trim/
+mm  /mnt
